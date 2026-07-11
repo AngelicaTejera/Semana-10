@@ -1,0 +1,23 @@
+¿Qué 2 tareas del backlog harías primero?
+
+Las 2 primeras tareas que haría son las siguientes:
+1: Como ciudadano, quiero registrar una incidencia con ubicación y fotos para dejar evidencia oficial del caso.
+2: Como coordinador de la veeduría, quiero recibir una alerta inmediata en Telegram al crearse un nuevo reporte para verificarlo con prontitud.
+
+¿Por qué son las más importantes?
+
+Son las más importantes porque establecen el ciclo básico de control social: la captura del dato y la acción inmediata.
+Sin estas dos, no hay proceso de veeduría ni capacidad de incidencia ante una irregularidad.
+
+¿Qué significa para ti que una tarea esté “terminada”?
+Escribe una definición simple de terminado con al menos 3 criterios. 
+Por ejemplo:
+Funciona.
+Fue probada.
+Quedó registrada en Git.
+
+Para que una tarea se considere realmente completada en el proyecto, debe cumplir con estos tres criterios mínimos:
+1- Funcionalidad validada: El código cumple con el objetivo técnico y la funcionalidad opera según lo esperado en el entorno de desarrollo.
+2- Prueba de usuario realizada: He verificado personalmente que el flujo principal (ej. subir la incidencia o recibir la alerta) se ejecuta sin errores.
+3- Versionado y trazabilidad: Los cambios han sido validados y documentados.
+Con git commit y el historial refleja el progreso, manteniendo el código ordenado y fuera de las carpetas de trabajo innecesarias.

@@ -1,0 +1,5 @@
+Como ciudadano, quiero registrar una incidencia con ubicación y fotos para dejar evidencia oficial del caso.
+Como coordinador de la veeduría, quiero recibir una alerta inmediata en Telegram al crearse un nuevo reporte para verificarlo con prontitud.
+Como miembro del equipo, quiero consultar un tablero de estados para ver el avance y seguimiento de las denuncias presentadas.
+Como ciudadano, quiero visualizar un mapa de calor con los reportes de mi comunidad para identificar zonas de mayor afectación.
+Como coordinador, quiero exportar los datos recolectados en un formato legible para presentar informes ante los entes de control.
